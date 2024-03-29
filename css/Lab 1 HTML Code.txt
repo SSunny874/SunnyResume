@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+ <head>
+         <link rel ="stylesheet" href="css/lab1.css">
+ <title>Sunny Shahnawaz's Resume</title>       
+ </head>
+    
+ <body>
+      <div class="header">
+          <img src="img/me2.png" alt="Your Image" class="rounded-image">
+          
+          <h1>Sundas Shahnawaz</h1>
+        
+         
+          <div><h3>Contact Information</h3>
+           Ph: +1 780-298-1447
+          <br>
+           Email: sundas.s882@gmail.com</div>
+          <a href="https://www.linkedin.com">LinkedIn</a>
+     
+     </div>
+      
+    <div class="column1">
+         
+        <h2>About Me</h2>
+         <p>I'm a cybersecurity professional seeking to apply my experience in strengthening the confidentiality, integrity and availibility of critical organizational networks, as well as strengthing the security posture of services held in the cyberspace.</p>
+         
+        <h2>Professional Experience</h2>
+         <p><b>S!NG Inc. – Seattle, WA                Marketing and Communications  Manager</b><br>
+          2019-2022
+         <br><br>
+        
+             
+       <ul>
+          <li>Developed digital content and social media campaigns designed to engage users and create an interactive relationship between users and S!NG.</li>
+          <br>
+          <li>Authored various articles on the S!NG’s blockchain technology on the company’s Medium blog – the blog is designed to engage and educate users on the software and inner workings of blockchain.</li>
+           <br>
+         <li>Wrote original copy for S!NG’s website, company announcements, FAQ, as well as technical copy for investor presentations.</li>
+        
+           <br><br>
+        </ul>
+        
+         <b>Yokogawa Middle East and Africa B.S.C – Manama, Bahrain -- Graduate Technical Intern</b><br>2016
+            <br>
+     <ul>
+          <li>Assistance with the operation of Yokogawa’s pressure transmitter modification line.</li>
+            <br>
+          <li>One-year experience of management of incoming work orders and related technical documents.</li>
+             <br><br>
+     </ul>
+     
+        <b>Shell Canada Athabasca Oil Sands Project - Fort McMurray, Alberta - Paid Internship</b><br>
+        2012
+         
+    <ul>
+        <br>
+        <li>Responsible for managing accurate tracking spreadsheets on monthly worker counts and work orders for ongoing projects.</li>
+        <br>
+        <li>Prepared and presented Fountain Incident Management reports at daily meetings.</li>
+         
+       </ul>
+    </div>
+     
+     
+     
+     <div class="column2">
+        
+        <h2>Education</h2>
+          
+          <ul><p>
+       
+          <b>Bow Valley College 2023-2024</b><br>
+          Cybersecurity Post-Diploma Certificate<br><br>
+          
+          <b>Northern Alberta Institute of Technology (NAIT) 2013-2015</b><br>Diploma - Instrumentation Engineering Technology <br>
+          <br>
+             
+          <b>Spruce Grove Composite High School 2008-2011</b>
+          </p></ul>
+      
+        <h2>Skills</h2>
+         
+          <ul>
+             <li>Outstanding written and communication skills, as well as creation and presentation of technical information to both technical and non-technical audiences.</li>
+             <li>Ability to interact and coordinate with internal and external stakeholders.</li>
+             <li>Strong track record of maintaining excellent customer relationships.</li>
+             <li>Rigorous attention to detail</li>
+             <li>Computer skillset includes: AWS  Envirnonment, SmartSketch, Brackets, PacketTracer, WireShark, Microsoft Office, Google Suite, and Adobe Creative suites</li>
+          </ul>
+          
+         
+         <h2>Publications</h2>
+        
+         <div class="link-set-2">
+         
+        
+         <ul><b>
+             
+             <li><a href="https://singcollective.medium.com/protecting-ideas-with-blockchain-how-does-it-work-e9f3d6f0515f">"Protecting Ideas With Blockchain: How Does it Work?"</a></li><br>
+             <li><a href=https://singcollective.medium.com/nfts-are-a-treasure-trove-of-possibilities-for-creators-dbba26250426>"NFTs are a Treasure Trove of Possibilities for Creators"</a></li><br>
+             <li><a href=https://singcollective.medium.com/a-deeper-dive-into-blockchain-with-s-ng-296325903701>"A Deeper Dive into Blockchain with S!NG"</a></li>
+        
+         </b></ul>
+         </div>
+     
+         
+         <h2>References</h2>
+         Available upon request.
+
+
+      </div>
+      
+    <div class="footerbox"><center>&copy;2024 All Rights Reserved.</center></div> 
+
+    
+    </body>
+
+    
+  <footer>
+    
+ 
+  </footer>
+</html>
